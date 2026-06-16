@@ -1,0 +1,21 @@
+{
+  "name": "automated-news-digest-builder",
+  "version": "1.0.0",
+  "description": "Command-line news digest generator with Singleton and Builder patterns.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --runInBand"
+  },
+  "keywords": [
+    "news",
+    "digest",
+    "singleton",
+    "builder"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}
