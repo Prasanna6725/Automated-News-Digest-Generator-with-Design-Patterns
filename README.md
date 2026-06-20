@@ -14,7 +14,7 @@ This project is a Node.js command-line application that fetches top news headlin
 
 ```json
 {
-  "apiKey": "YOUR_API_KEY_HERE",
+  "apiKey": "343518d44b3c170ce5ea1a818bc2de38",
   "categories": ["technology", "business", "science", "health", "sports"],
   "outputFile": "output/digest.html"
 }
