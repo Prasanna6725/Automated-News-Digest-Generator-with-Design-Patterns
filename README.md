@@ -37,5 +37,3 @@ Run the unit test suite with:
 ```bash
 npm test
 ```
-
-.
